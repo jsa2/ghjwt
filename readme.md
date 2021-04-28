@@ -2,8 +2,9 @@
 GitHub has great documentation and examples for this flow. I only created this, as I wanted to have single page for documentation with code examples for my use case (GitHub Apps JWT tokens in server to server flows)
 [Documentation about the flow](#documentation-about-the-flow)
 ### Recommended reading
-![howTo](https://docs.github.com/en/developers/apps/authenticating-with-github-apps)
+
 https://docs.github.com/en/developers/apps/authenticating-with-github-apps
+
 https://docs.github.com/en/developers/apps/differences-between-github-apps-and-oauth-apps
 https://docs.github.com/en/developers/apps/about-apps#determining-which-integration-to-build
 
