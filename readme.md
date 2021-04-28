@@ -1,5 +1,5 @@
 ## GitHub Apps and JWT based flow for server-to-server use
-GitHub has great documentation and examples for this flow. I only created this, as I wanted to have single page for documentation with code examples for my use case (GitHub Apps JWT tokens in server to server flows)
+GitHub has great documentation and examples for this flow. I created this as I wanted to have single page for documentation with code examples for my use case (GitHub Apps JWT tokens in server to server flows to avoid using Personal Access tokens for API use cases)
 [Documentation about the flow](#documentation-about-the-flow)
 ### Recommended reading
 
